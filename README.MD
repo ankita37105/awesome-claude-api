@@ -73,12 +73,12 @@
 
 ⭐ 如果这个项目对你有帮助，欢迎Star支持！
 
-## ⭐ Star 历史
-
 ## Additional OpenAI-Compatible Gateway
 
 | Service | Website | Pricing | Notes |
 | --- | --- | --- | --- |
 | [APIClaw](https://apiclaw.biz/) | [apiclaw.biz](https://apiclaw.biz/) | $19-$129/month; 50-request free trial | Flat-rate OpenAI-compatible gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM. |
+
+## ⭐ Star 历史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=peter123023/awesome-claude-api&type=Date)](https://star-history.com/#peter123023/awesome-claude-api&Date)
